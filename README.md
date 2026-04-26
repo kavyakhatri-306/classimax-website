@@ -12,7 +12,8 @@ Here we are offering Classimax, the most popular free Bootstrap classified websi
 | [![](screenshots/dashboard.png)](https://demo.themefisher.com/classimax/dashboard.html) | [![](screenshots/blog.png)](https://demo.themefisher.com/classimax/blog.html) | [![](screenshots/store.png)](https://demo.themefisher.com/classimax/store.html) |
 | **Dashboard** | **Blogs** | **Store** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/classimax/)
+## 🌐 Live Demo
+[Click here to view live project](https://classifiedwebsitebykavya.netlify.app/)
 
 <!-- pages -->
 ## Pages
